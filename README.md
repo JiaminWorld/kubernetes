@@ -42,4 +42,4 @@
   $ ./worker.sh
 
 
-Now you are ready to build your own service on kubernetes!
+Now you are ready to build your own service on kubernetes!!
